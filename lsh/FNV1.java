@@ -1,7 +1,5 @@
 /**
  *
- * @author Tharindu Kumara
- *
  * Implementation of the FNV1 hashing function
  *
  */
